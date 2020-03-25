@@ -1,0 +1,6 @@
+body {
+    height: 100vh;
+    background-color: #F8F8F8;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image: linear-gradient(to right top, #7a59b7, #8174c6, #8d8dd2, #9da5dc, #b1bde4, #abbae6, #a5b6e8, #9eb3ea, #7c93e5, #6073dc, #4a50d0, #3c28c0);
+}
